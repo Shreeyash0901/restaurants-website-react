@@ -49,7 +49,7 @@ export default function Navbar() {
             </li>
           ))}
           <li>
-            <Link to="#" className="nav-cta">
+            <Link to="/contact" className="nav-cta">
               Book a Table
             </Link>
           </li>
